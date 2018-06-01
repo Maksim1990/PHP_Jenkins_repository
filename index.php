@@ -1,6 +1,13 @@
-<?php
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-echo "Hello World @!";
+<h1>CircleCI Continuous integration </h1>
+<p>Build #1</p>
+<p>Build #2</p>
 
-var_dump("Build #3");
-var_dump("Build CircleCI Build#5");
+</body>
+</html>
