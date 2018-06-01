@@ -8,6 +8,7 @@
 <h1>CircleCI Continuous integration </h1>
 <p>Build #1</p>
 <p>Build #2</p>
+<p>Build #3</p>
 
 </body>
 </html>
